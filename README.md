@@ -1,2 +1,2 @@
 # careercup
-Some solution ideas to Career Cup (careercup.com) questions. 
+Some solution ideas of interview questions listed at Career Cup (careercup.com).
