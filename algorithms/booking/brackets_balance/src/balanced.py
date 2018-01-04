@@ -51,6 +51,10 @@ def balanced(input_value):
 
 	return True
 
+# Example in the question
+print(balanced('{{}}{)([][]'))
+
+# Another examples 
 print(balanced('(c)((b)[a]'))
 print(balanced('[(a)'))
 print(balanced('([}{])'))
