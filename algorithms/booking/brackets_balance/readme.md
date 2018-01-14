@@ -9,9 +9,7 @@ E.g. `{{}}{)([][]`
 __Question address:__
 <https://www.careercup.com/question?id=5701630857052160>
 
-#Solution idea
+## Solution idea
 
-##See it running:
+__See it running:__
 <https://goo.gl/cWAf8L>
-
-

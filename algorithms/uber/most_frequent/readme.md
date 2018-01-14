@@ -17,18 +17,13 @@ E.g.
 __Question address:__
 <https://www.careercup.com/question?id=4955803575386112>
 
-#Solution idea 
+# Solution idea 
 
-##Personal comment:
+__See it running at:__
+<https://goo.gl/GsdHGj>
+
+## Personal comment:
 My doubt is about interpretation between 'most frequent' and 'longest sequence'.
 In the list [1,2,3,3,3,4,5,4,6,4,7,4,8,4,9], have the number 4 with higher frequence, but 3 with longest sequence.
 
 And i have a question too, if there is more elements with the same frequency? Should i return a list of them? Anyway, my propose see to solve using the _'most frequent'_ concept.
-
-###See it running at:
-<https://goo.gl/GsdHGj>
-
-
-
-
-
